@@ -1,0 +1,27 @@
+[
+    {
+        "file_url" : "rahulstar7/DataEngineering_project/refs/heads/master/Data/AdventureWorks_Product_Categories.csv",
+        "destination_folder" : "AdventureWorks_Product_Categories",
+        "destination_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "file_url" : "rahulstar7/DataEngineering_project/refs/heads/master/Data/AdventureWorks_Sales_2015.csv",
+        "destination_folder" : "AdventureWorks_Sales_2015",
+        "destination_file" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "file_url" : "rahulstar7/DataEngineering_project/refs/heads/master/Data/AdventureWorks_Sales_2016.csv",
+        "destination_folder" : "AdventureWorks_Sales_2016",
+        "destination_file" : "AdventureWorks_Sales_2016.cvs"
+    },
+    {
+        "file_url" : "rahulstar7/DataEngineering_project/refs/heads/master/Data/AdventureWorks_Sales_2017.csv",
+        "destination_folder" : "AdventureWorks_Sales_2017",
+        "destination_file" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "file_url" : "rahulstar7/DataEngineering_project/refs/heads/master/Data/AdventureWorks_Territories.csv",
+        "destination_folder" : "AdventureWorks_Territories",
+        "destination_file" : "AdventureWorks_Territories.csv"
+    }
+]
